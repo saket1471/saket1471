@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=saket1471&color=green)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saket1471/count.svg" />
+</p>
